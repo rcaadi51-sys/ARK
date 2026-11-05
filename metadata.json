@@ -1,0 +1,6 @@
+{
+  "name": "HirePulse - ATS & Careers Portal",
+  "description": "An editorial, calm, and professional applicant tracking system and candidate careers portal featuring open roles, custom job applications, drag-and-drop Kanban pipeline, candidate scorecards, and interview scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
